@@ -31,4 +31,38 @@ O projeto estará aberto para contribuições futuramente. Assim que definido, u
 ## Licença
 A licença do projeto ainda não foi definida.
 
+<h2 id="autores">Autores</h2>
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/PedroDiOliveira">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473107?v=4" width="80px;" alt="Foto de Pedro oliveira"/>
+                <br/>
+                <b>Pedro Oliveira</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/lucas19fonseca">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473218?s=400&u=2f5a424572b24dac442e7a193d05f341f6e6f880&v=4" width="80px;" alt="Foto de Lucas Fonseca"/>
+                <br/>
+                <b>Lucas Fonseca</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/PedroDelgo">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
+                <br/>
+                <b>Pedro Delgado</b>
+            </a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/gabriellima-4">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126473024?v=4" width="80px;" alt="Foto de Gabriel Lima"/>
+                <br/>
+                <b>Gabriel Lima</b>
+            </a>
+        </td>
+    </tr>
+</table>
+
 
