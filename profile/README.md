@@ -48,6 +48,13 @@ A licença do projeto ainda não foi definida.
                 <b>Lucas Fonseca</b>
             </a>
         </td>
+         <td align="center">
+            <a href="https://github.com/brunodeev">
+                <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79723563?v=4" width="80px;" alt="Foto de Bruno César"/>
+                <br/>
+                <b>Bruno César</b>
+            </a>
+        </td>
         <td align="center">
             <a href="https://github.com/PedroDelgo">
                 <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126472951?v=4" width="80px;" alt="Foto de Pedro Delgado"/>
