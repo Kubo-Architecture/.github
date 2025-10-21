@@ -7,13 +7,6 @@ Kubo é uma aplicação web que serve como um banco de dados de arquitetura, ofe
 O projeto visa proporcionar um acervo rico de obras arquitetônicas, facilitando o acesso à informação e incentivando os alunos a aprofundarem seus estudos sobre arquitetura ao redor do mundo.
 <h2 id="links">Links úteis</h2>
 
-Abaixo, segue uma lista com links e documentos úteis.
-
-- <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentacaoEndpoints.md">Documentação dos Endpoints</a>
-- <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deployAPI.md">Instalação da API</a>
-- <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/deploySPA.md">Instalação da SPA</a>
-- <a href="https://github.com/WebII-2020-2/BEE/blob/main/docs/documentoDeRequisitos.pdf">Documento de Requisitos</a>
-
 ## Funcionalidades
 - Biblioteca de busca de obras arquitetônicas.
 - Postagem de novas obras no acervo.
